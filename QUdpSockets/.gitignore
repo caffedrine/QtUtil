@@ -1,0 +1,23 @@
+# Ignore everything
+/*
+
+### EXCEPTIONS ###
+
+# Directories
+!docs/
+!includes/
+!include/
+!scripts/
+!src/
+!qml/
+
+# Files
+!.gitignore
+!Makefile
+!CMakeLists.txt
+!*.md
+
+# Global files exclusion
+*user
+*~
+*.tmp
